@@ -105,6 +105,6 @@ social:
 highlight_name: true
 ---
 
-I am currently engaged in a PhD program in Computer Science at the University of Manchester under the supervision of [Richard Allmendinger](https://personalpages.manchester.ac.uk/staff/Richard.Allmendinger/default.htm), [Wei Pan](https://panweihit.github.io/) and [Theodore Papamarkou](https://www.theopapamarkou.com/). My research delves into the intricacies of applying Reinforcement Learning (RL) in  non-stationary environments—an area that is critical to the deployment of RL in real-world situations.
+I am currently enrolled in a PhD program in Computer Science at the University of Manchester under the supervision of [Richard Allmendinger](https://personalpages.manchester.ac.uk/staff/Richard.Allmendinger/default.htm), [Wei Pan](https://panweihit.github.io/) and [Theodore Papamarkou](https://www.theopapamarkou.com/). My research delves into the intricacies of applying Reinforcement Learning (RL) in  non-stationary environments—an area that is critical to the deployment of RL in real-world situations.
 
 Concurrently, I am employed at [Virtual Vehicle Research GmbH](https://www.virtual-vehicle.at/) in Graz, Austria, holding the position of Senior Research and Development Engineer. My key responsibilities include leading the design and implementation of RL policies for legged robots in search and rescue operations, and developing RL agent for energy management in Plug-in Hybrid Electric Vehicles, integrating cutting-edge AI with eco-friendly vehicle technology.
