@@ -1,124 +1,110 @@
 ---
 # Display name
-title: 吳健雄
+title: Amr Mousa
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
+# Short bio (displayed in user profile at end of posts)
+bio: A dedicated PhD student with a profound interest in reinforcement learning in non-stationary environments. Passionate about the intersection of AI and the automotive industry, aiming to contribute to the evolution of intelligent vehicles.
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Senior AI Research Engineer and PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  - name: Virtual Vehicle Research GmbH
+    url: https://www.virtual-vehicle.at/
+  - name: University of Manchester
+    url: https://www.manchester.ac.uk/
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Meta Learning  
+  - Transfer Learning
+  - Robotics
+  - Automotive and Aerospace 
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Engineering Management
+      institution: Arizona State University
+      year: 2022
+
+    - course: Master of Automotive Mechatronics
+      institution: FH Oberösterreich
+      year: 2021
+
+    - course: Bachelor of Aerospace Engineering
+      institution: Zewail City, Egypt
+      year: 2018  
 
 # Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
       - name: Python
-        description: ''
+        description: 'dfsgs'
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
+      - name: Project Management
+        percent: 85
+        icon: project-diagram
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
+      - name: SCRUM and Agile Methodologies
         percent: 80
-        icon: camera-retro
+        icon: agile
+        icon_pack: custom
+      - name: Systems Engineering
+        percent: 85
+        icon: cogs
+        icon_pack: fas
+      - name: Software Development Lifecycle
+        percent: 90
+        icon: laptop-code
+        icon_pack: fas
+      - name: Machine Learning and Data Mining
+        percent: 95
+        icon: brain
         icon_pack: fas
 
+  - name: Languages
+    items:
+      - name: Arabic
+        percent: 100
+        description: Native
+      - name: English
+        percent: 90
+        description: C1 Level
+      - name: German
+        percent: 50
+        description: B1 Level
+
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'mailto:amrmousa.m@gmail.com'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=sqVgcKwAAAAJ&hl
+  - icon: orcid 
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/0000-0002-4998-5336
+  - icon: researchgate
+    icon_pack: fab
+    link: 'https://www.researchgate.net/profile/Amr-Mousa-4'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/amrmousa144/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    link: 'https://www.linkedin.com/in/amousa95'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+I am currently engaged in a PhD program in Computer Science at the University of Manchester under the supervision of [Richard Allmendinger](https://personalpages.manchester.ac.uk/staff/Richard.Allmendinger/default.htm), [Wei Pan](https://panweihit.github.io/) and [Theodore Papamarkou](https://www.theopapamarkou.com/). My research delves into the intricacies of applying Reinforcement Learning (RL) in  non-stationary environments—an area that is critical to the deployment of RL in real-world situations.
+
+Concurrently, I am employed at [Virtual Vehicle Research GmbH](https://www.virtual-vehicle.at/) in Graz, Austria, holding the position of Senior Research and Development Engineer. My key responsibilities include leading the design and implementation of RL policies for legged robots in search and rescue operations, and developing RL agent for energy management in Plug-in Hybrid Electric Vehicles, integrating cutting-edge AI with eco-friendly vehicle technology.

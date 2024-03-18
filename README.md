@@ -47,3 +47,17 @@ We're an open source movement that depends on your support to stay online and th
 * [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
 * [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
 <!--END_SECTION:news-->
+
+## To Install for Local Deployment in Linux
+
+To install the necessary tools for local deployment in Linux, follow these steps:
+
+1. Install Go and Node using Snap:
+   ```bash
+   sudo snap install --classic go
+   sudo snap install --classic node
+   sudo snap install hugo
+
+2. Start the Hugo server:
+   ```bash
+    hugo server -D
